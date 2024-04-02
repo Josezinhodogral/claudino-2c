@@ -24,3 +24,7 @@ body { background-color: rgb(0, 255, 68);
     margin: 0x 16px;
   padding: 24px 0;
 font-size: 24px;}
+
+.escola-imagem{
+  width: 15%;
+}
